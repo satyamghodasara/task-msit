@@ -18,7 +18,7 @@ task uses [Honeycomb](https://brown-ccv.github.io/honeycomb-docs/) (also known a
 git clone https://github.com/brown-ccv/task-msit.git
 ```
 
-2. Change directory into the new folder
+2. Change directory into the new folder.
 
 ```
 cd task-<TASK NAME>
